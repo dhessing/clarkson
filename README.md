@@ -1,6 +1,6 @@
-# clarkson
+# Clarkson
 
-FIXME
+Visit the [live server](https://clarkson.herokuapp.com/)
 
 ## Prerequisites
 
